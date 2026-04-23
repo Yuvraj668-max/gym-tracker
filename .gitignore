@@ -1,0 +1,7 @@
+# Ignore database config (VERY IMPORTANT)
+config/db.php
+
+# Optional (good practice)
+node_modules/
+.env
+.DS_Store
